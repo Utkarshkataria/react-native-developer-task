@@ -1,0 +1,32 @@
+export const WELCOME_TXT = 'WELCOME BACK';
+export const LOG_INTO_YOUR_ACC_TXT = 'Log into your account';
+export const EMAIL_OR_USERNAME_TXT = 'Email or Username';
+export const ENTER_EMAIL_TXT = 'Enter Your Email';
+export const PASSWORD_TXT = 'Password';
+export const PREFFERED_USERNAME_TXT = 'Choose a preferred username';
+export const LOGIN_NOW_TXT = 'Login now';
+export const SIGN_UP_TXT = 'SIGN UP';
+export const CREATE_ACC_TXT = 'Create an account to continue';
+export const EMAIL_TXT = 'Email';
+export const ENTER_YOUR_EMAIL_TXT = 'Enter Your Email';
+export const USERNAME_TXT = 'Username';
+export const ALREADY_HAVE_AN_ACC_TXT = 'Already have an account?';
+export const CREATE_POST_TXT = 'Create post';
+export const HOW_ARE_YOU_FEELING_TXT = 'How are you feeling today?';
+export const THERESA_WEB_TXT = 'Theresa Webb';
+export const FIVE_MINS_AGO_TXT = '5mins ago';
+export const MESSAGE_TXT =
+  'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.';
+export const SUB_TITLE_TXT =
+  'How are you doing today? Would you like to share something with the community 🤗';
+export const HELLO_TXT = 'Hello Jane';
+export const COMMENTS_TXT = '24 comments';
+export const CHOOSE_PREFFERED_PASSWORD_TXT = 'Choose a preferred password';
+export const CONTINUE_TXT = 'Continue';
+export const REGISTER_TXT = 'Register';
+export const NOT_REGISTERED_YET = 'Not registered yet? ';
+export const IMAGE_URL_TXT = 'https://reactnative.dev/img/tiny_logo.png';
+export const FORGOT_PASSWORD_TXT = 'Forgot Password?';
+export const WELCOME_BACK_TXT = 'WELCOME BACK';
+export const LOGIN_TXT = 'Log into your account';
+export const ENTER_EMAIL = 'Enter Your Email';
